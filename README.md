@@ -1,4 +1,4 @@
-# WulfNetworkBot Warning System Info
+# WulfNetworkBot Warning System Documentation
 
 | Command | Description | Permission Group |
 | ------- | ----------- | ---------------- |
